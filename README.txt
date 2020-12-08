@@ -58,7 +58,6 @@ Also, if you want to provide your custom review for hotels, update the custom re
 
 
 ------------------------------------------------------------------------------------------------------------------
-Anmol Jaising
 
 preprocess.py
 
